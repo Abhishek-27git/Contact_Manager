@@ -202,4 +202,3 @@ Build files will be generated in the `build/` folder.
 * 🌙 Dark mode
 * 🔐 Authentication
 * 📱 Better responsive design
-* 
